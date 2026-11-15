@@ -15,7 +15,7 @@ public class LNLDirectFix : ResoniteMod
     public override string Name    => "LNLDirectFix";
     public override string Author  => "Sinduy";
     public override string Version => VERSION_CONSTANT;
-    public override string Link    => "https://github.com/sjsanjsrh/lnl-direct-fix";
+    public override string Link    => "https://github.com/sjsanjsrh/LNLDirectFix";
 
     public override void OnEngineInit()
     {
